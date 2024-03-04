@@ -72,7 +72,7 @@ const sr = ScrollReveal({
     distance: '80px',
     duration: 2500,
     delay: 300,
-    //reset: true, // Animations repeat
+    reset: true, // Animations repeat
 });
 
 sr.reveal('.home_img, .new_data, .care_img, .contact_content, .footer');
