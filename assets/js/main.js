@@ -77,5 +77,5 @@ const sr = ScrollReveal({
 
 sr.reveal('.home_img, .new_data, .care_img, .contact_content, .footer');
 sr.reveal('.home_data, .care_list, .contact_img', {delay: 200});
-sr.reveal('.new_card', {delay: 200, interval: 100});
-sr.reveal('.shop_card', {interval: 100});
+sr.reveal('.new_card', {delay: 200, interval: 500});
+sr.reveal('.shop_card', {interval: 500});
